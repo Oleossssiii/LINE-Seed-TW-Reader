@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-OFL_1.1-blue.svg?style=for-the-badge)
 ![Category](https://img.shields.io/badge/Category-E--Reader-orange?style=for-the-badge)
 
-這是一款專為 **電子閱讀器** 打造的簡轉繁字體。基於 LINE 官方推出的 [LINE Seed](https://seed.line.me/) 字體進行改製，透過字形對映技術，讓您在閱讀簡體書籍時，能自動呈現為精美的**台灣繁體字形與在地化用語**。
+這是一款專為 **電子閱讀器** 打造的簡轉繁字體。基於 LINE 官方推出的 [LINE Seed](https://seed.line.me/index_tw.html) 字體進行改製，透過字形對映技術，讓您在閱讀簡體書籍時，能自動呈現為精美的**台灣繁體字形與在地化用語**。
 
 ## ✨ 專案特點
 
