@@ -1,4 +1,4 @@
-# LINE Seed TC Reader｜台灣在地化簡轉繁閱讀字體
+# LINE Seed TW Reader｜台灣在地化簡轉繁閱讀字體
 
 ![Typeface Preview](https://img.shields.io/badge/Font-LINE_Seed-00C300?style=for-the-badge&logo=line)
 ![License](https://img.shields.io/badge/License-OFL_1.1-blue.svg?style=for-the-badge)
@@ -8,8 +8,7 @@
 
 ## ✨ 專案特點
 
-- **🇹🇼 台灣用語在地化**：不僅是字形轉換，更整合了 OpenCC 台灣辭彙修正（如：軟件→軟體、質量→品質、屏幕→螢幕），提供最純粹的台灣閱讀體驗。
-- **📖 閱讀器優化**：針對 E-ink 螢幕特性調整，確保在不同解析度下皆能保持清晰的對比度。
+- **🇹🇼 台灣用語在地化**：不僅是字形轉換，更整合了台灣辭彙修正（如：軟件→軟體、質量→品質、屏幕→螢幕），提供最純粹的台灣閱讀體驗。
 - **🎨 多重字重選擇**：提供從纖細到極粗共四種字重，滿足從詩歌內文到章節標題的所有需求。
 - **🛠️ 開源技術基礎**：使用 [TCFontCreator](https://github.com/GuiWonder/TCFontCreator) 腳本進行精準的字形映射處理。
 
