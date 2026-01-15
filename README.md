@@ -6,6 +6,10 @@
 
 這是一款專為 **電子閱讀器** 打造的簡轉繁字體。基於 LINE 官方推出的 [LINE Seed](https://seed.line.me/index_tw.html) 字體進行改製，透過字形對映技術，讓您在閱讀簡體書籍時，能自動呈現為精美的**台灣繁體字形與在地化用語**。
 
+<p align="center">
+  <img src="[您的圖片路徑或網址](https://github.com/Eujenz/LINE-Seed-TW-Reader/blob/main/images/LineSeedTW.png)" alt="LINE Seed TW 設計特點" width="800">
+</p>
+
 ## ✨ 專案特點
 
 - **🇹🇼 台灣用語在地化**：不僅是字形轉換，更整合了台灣辭彙修正（如：軟件→軟體、質量→品質、屏幕→螢幕），提供最純粹的台灣閱讀體驗。
